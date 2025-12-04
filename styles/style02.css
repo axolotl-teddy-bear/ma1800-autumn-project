@@ -1,5 +1,5 @@
 body {
-  background-image: url('images/chinapress.png');
+  background-image: url('../images/chinapress.png');
   background-repeat: repeat;
   background-size: contain;
   height: 400vh; 

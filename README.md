@@ -30,10 +30,12 @@ likepearls.com is the main website that inspired page 1 of my project, where a b
 if I had more time ans resources, I would definately add even more webpages to this project. with 7 pages only, the experience could end very quickly, and the sense of being lost in the website might not be developed enough. furthermore, I also want to maybe add more audio experiences to the websites. 
 
 --------------------Sources cited--------------------
+
 index.html:
 https://www.wallpaperflare.com/black-and-brown-brick-wall-old-dark-brick-wall-background-wallpaper-uijua/download/3840x2160
 
 page1: 
+
 https://www.diydoutu.com/diy/biaoqing/11036
 
 https://www.diydoutu.com/diy/biaoqing/11752
@@ -101,9 +103,11 @@ https://www.diydoutu.com/diy/biaoqing/11695
 https://github.com/ThePacielloGroup/CCA-Win/issues/49
 
 page2: 
+
 Cheng’en, Wu. Journey to the West. 1987.
 
 page3:
+
 https://logos-world.net/baidu-logo/
 
 https://commons.wikimedia.org/wiki/File:Tencent_Logo.svg
@@ -119,9 +123,11 @@ https://github.com/ThePacielloGroup/CCA-Win/issues/49
 https://www.pngsucai.com/png/9070025.html
 
 page4: 
+
 https://techcrunch.com/2011/03/02/googles-new-404-fail-robot-says-thats-an-error-thats-all-we-know/
 
 page 6:
+ 
 https://www.biography.com/political-figures/mao-tse-tung
 
 https://vsbattles.fandom.com/wiki/Winnie_the_Pooh_(Disney)
